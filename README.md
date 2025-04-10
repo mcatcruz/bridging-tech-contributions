@@ -1,20 +1,37 @@
-# Bridging Tech Backend Project
+# Bridging Tech Contributions
 
-This repo contains my work as part of the backend team at Bridging Tech, a nonprofit focused on educational equity through technology. I contributed to database restructuring, backend API development, and frontend integration.
+This repository showcases my contributions as a backend developer for Bridging Tech, a nonprofit focused on educational equity through technology. I was part of a small backend team and collaborated closely with frontend developers and designers to improve our internal database system and enhance app functionality.
 
-## 🔧 What I Worked On
+## 🔧 Key Contributions
 
-- **Database Schema Redesign**: Reduced data redundancy and improved scalability
-- **User Sign-Up API Endpoint**: Secure, validation-based TypeScript/Node.js implementation
-- **Frontend Support**: Built a reusable footer component to support the design team
+- **Database Schema Redesign**
+  - Assessed and restructured the schema to reduce data redundancy and support scalability
+  - Introduced foreign key relationships to clarify table associations
 
-## 📂 Repo Contents
+- **API Development**
+  - Built a secure user sign-up endpoint using TypeScript and Node.js
+  - Implemented input validation, password hashing, and error handling
 
-- `/schema`: SQL dump files
-- `/api`: User sign-up backend endpoint
-- `/frontend`: Footer component I built for the frontend team
-- `/docs`: User stories and ERD slides
+- **Frontend Support**
+  - Developed a reusable footer component for the frontend team using React and Tailwind CSS
 
-## 🔒 Notes
+- **Planning and Documentation**
+  - Authored technical documentation, including an ERD, relational schema, and user stories that served as the basis for our CRUD operations and endpoints
 
-Some original source code from the org is not shareable. This repo includes only the materials I personally created or documented.
+## 📁 Folder Overview
+
+- `schema/`: SQL dump file and ERD slides (PDF)
+- `api/`: User sign-up API endpoint (TypeScript)
+- `frontend/`: Footer component built for the design system (React/Tailwind)
+- `docs/`: User stories and planning documentation
+
+## 📝 Note
+
+This repo includes only the artifacts and code I personally created or documented. Some source code from the original organization is proprietary and has not been included.
+
+## 🧵 Tech Stack
+
+- PostgreSQL
+- Node.js / TypeScript
+- React / Tailwind CSS
+- Synth (for test data generation)
