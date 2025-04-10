@@ -5,7 +5,6 @@ This repo contains my work as part of the backend team at Bridging Tech, a nonpr
 ## 🔧 What I Worked On
 
 - **Database Schema Redesign**: Reduced data redundancy and improved scalability
-- **Custom SQL Logic**: Trigger function to timestamp parental consent
 - **User Sign-Up API Endpoint**: Secure, validation-based TypeScript/Node.js implementation
 - **Frontend Support**: Built a reusable footer component to support the design team
 
